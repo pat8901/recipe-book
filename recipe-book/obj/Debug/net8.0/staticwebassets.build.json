@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QooQ3itvv3khW2mQtYlwYoBm0H0xXtscLv8cQzNG3Uc=",
+  "Source": "recipe-book",
+  "BasePath": "_content/recipe-book",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
